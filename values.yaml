@@ -5,10 +5,10 @@
 replicaCount: 3
 
 image:
-  repository: docker.io/frankadu23/rsvp 
+  repository: docker.io/teamcloudyuga/rsvpapp 
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "wip"
+  tag: "mooc"
 
 imagePullSecrets: []
 nameOverride: ""
