@@ -1,6 +1,6 @@
 apiVersion: v2
-name: rsvpapp 
-description: A Helm chart CloudYuga's RSVP App 
+name: rsvp 
+description: A Helm chart demo RSVP App 
 
 # A chart can be either an 'application' or a 'library' chart.
 #
